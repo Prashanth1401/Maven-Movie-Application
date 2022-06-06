@@ -1,0 +1,6 @@
+com\jenkins\service\MovieServiceImpl.class
+com\jenkins\App.class
+com\jenkins\dto\Movie.class
+com\jenkins\service\MovieService.class
+com\jenkins\dao\MovieDaoImpl.class
+com\jenkins\dao\MovieDao.class
